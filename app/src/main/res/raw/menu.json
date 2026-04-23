@@ -1,0 +1,15 @@
+{
+  "restaurant": "Chicken Farms",
+  "categories": [
+    {
+      "name": "Main Menu",
+      "items": [
+        {
+          "id": "1",
+          "name": "Sample Item",
+          "price": 10000
+        }
+      ]
+    }
+  ]
+}

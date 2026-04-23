@@ -1,0 +1,3 @@
+-keepattributes *Annotation*
+-keep class com.dantsu.escposprinter.** { *; }
+-keep class com.posapp.domain.model.** { *; }

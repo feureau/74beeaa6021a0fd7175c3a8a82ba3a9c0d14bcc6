@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">74bee</string>
+    <string name="store_name">Chicken Farms</string>
+    <string name="receipt_footer">Thanks for visiting!</string>
+    <string name="currency_symbol">Rp</string>
+</resources>
